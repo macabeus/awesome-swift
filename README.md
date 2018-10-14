@@ -1379,6 +1379,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [HHTabBarView](https://github.com/hemangshah/HHTabBarView) - A lightweight customized tab bar view.
 * [Tabman](https://github.com/uias/Tabman) - A powerful paging view controller with indicator bar.
 * [TabPageViewController](https://github.com/EndouMari/TabPageViewController) - Paging view controller and scroll tab view.
+* [TvLightSegments](https://github.com/macabeus/TvLightSegments) - Clean, simple and beautiful segment bar for your Apple TV app.
 
 #### Template
 [back to top](#readme) 
